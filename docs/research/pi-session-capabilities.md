@@ -30,7 +30,7 @@ Labels used below:
 - **Unsupported** means the inspected native interfaces do not supply the requested guarantee. An adapter might supply it.
 - **Unknown** means the contract, external integration, or operating condition still needs evidence. Absence of a discovered API is not proof that no third-party package implements one.
 
-Only repository documentation, installed package documentation/source/examples, and public upstream source were read. No model runs, extension installation, real session inventory, transcript inspection, credential access, production access, or concurrency experiments occurred. The user requested research only, no delegation, and one new repository file.
+Only repository documentation, installed package documentation/source/examples, and public upstream source were read. No model runs, extension installation, real session inventory, transcript inspection, credential access, production access, or concurrency experiments occurred. The delegated task was research only, with no further delegation and one new repository file.
 
 ## Global loading and commands
 
